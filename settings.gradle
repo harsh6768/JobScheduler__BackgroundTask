@@ -1,0 +1,1 @@
+include ':simple_job_scheduler', ':jobscheduler_notification_channel', ':intent_service', ':jobintentservice'
